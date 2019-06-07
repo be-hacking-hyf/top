@@ -7,7 +7,7 @@
 [curriculum](https://github.com/be-hacking-hyf/curriculum) - planning for full curriculum restructure
 * [javascript 1](https://github.com/be-hacking-hyf/) -  take 1 at a standardized module repo.  use branches for each class instead of forks like copenhagen 
     
---
+---
 
 homework and student management
 * [class5](https://github.com/be-hacking-hyf/) - take 1 at using class-based repos for consistency, tracking, handoff and student ownership
