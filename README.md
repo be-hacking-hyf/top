@@ -8,7 +8,7 @@
       * student tracking and homework procedures 
       * onboarding for coaches and students
       * stardardized repo organizaions (homework, modules, projects, ...)
-      * github workflows and structuring
+      * github workflows and structuring 
 1. content
       * redefine modules and curriculum objectives
       * assemble and standardize content methodology
@@ -20,6 +20,11 @@
 
 ---
 
+github structuring
+
+[home page drafting](https://github.com/be-hacking-hyf/top-for-hyfbe)
+
+---
    
 process & mindset references
 * [coach handbook](https://github.com/be-hacking-hyf/coach-handbook) - the coach onboarding & continuous support handbook
