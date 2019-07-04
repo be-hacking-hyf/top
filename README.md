@@ -37,18 +37,21 @@ process & mindset references
 ---
 
 homework and student management
-* [class5](https://github.com/be-hacking-hyf/) - take 1 at using class-based repos for consistency, tracking, handoff and student ownership
+* [homework checkoff process](https://github.com/be-hacking-hyf/homework-checkoff-tables)
+* [class 5, js 1](https://github.com/HackYourFutureBEHomework/class-5/wiki/module-2---JS-1) - take 1 at using class-based repos for consistency, tracking, handoff and student ownership
+* [class 6, precourse](https://github.com/HackYourFutureBEHomework/class-6/wiki/module-0-precourse) - take 2. what if the precourse is about learning homework workflow?
 
 ---
 
 
 [cross-module project](https://github.com/be-hacking-hyf/cross-module-project) - planning the progressive cross-module project
-* [cross-module-1](https://github.com/be-hacking-hyf/) - take 1, with class5
+* [cross-module-1](https://github.com/be-hacking-hyf/javascript-1-cross-module) - take 1, with class5
 
 ---
 
 [curriculum](https://github.com/be-hacking-hyf/curriculum) - planning for full curriculum restructure
-* [javascript 1](https://github.com/be-hacking-hyf/) -  take 1 at a standardized module repo.  use branches for each class instead of forks like copenhagen 
+* [precourse](https://github.com/be-hacking-hyf/precourse), [precourse homework](https://github.com/be-hacking-hyf/precourse-homework) 
+* [javascript 1](https://github.com/be-hacking-hyf/javascript-1), [javascript 1 homework](https://github.com/be-hacking-hyf/javascript-1-homework) -  take 1 at standardized module repos.  coaches use a branches for each class instead of forks (like copenhagen)
     
 ---
 
